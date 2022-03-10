@@ -1,0 +1,17 @@
+{
+  "name": "users-management",
+  "version": "1.0.0",
+  "description": "A simple API to manage users using node.js, mongodb, expressjs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^2.2.33"
+  }
+}
